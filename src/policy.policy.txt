@@ -1,0 +1,3 @@
+grant codeBase "C:\Users\allan\OneDrive\Studier\ITE1810-Internettapplikasjoner\Maze\MazeOblig_Finished\src\" {
+	permission java.security.AllPermissions
+};
